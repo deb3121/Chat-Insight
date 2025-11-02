@@ -1,5 +1,5 @@
 
-V1.0 2024-02-25:
+
 
 ### What's New?
 - GIF, Sticker, Audio, Deleted, Location Message Statistics.
