@@ -27,5 +27,4 @@ V1.0 2024-02-25:
     - Demo chat
  - Last but not least - Thanks to [chat-miner](
  https://github.com/joweich/chat-miner) for easy whatsapp parsing tool and 
- their awesome charts. Thanks to [Dinesh Vatvani](https://dvatvani.github.io/whatsapp-analysis.html) 
- for his great analysis.
+ their awesome charts. 
